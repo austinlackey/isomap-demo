@@ -1,2 +1,4 @@
-# TDA 475 Isomap Dimensionality Reduction Project
-Repo for Topo 475 Isomap Dimensionality Reduction project
+# Isomap Dimensionality Reduction
+## Final Project for DSCI 475 Topological Data Analysis
+
+Authors: Kristine Wiggins, Austin Lackey, Niko DeNiro
